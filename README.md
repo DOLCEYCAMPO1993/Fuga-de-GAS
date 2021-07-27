@@ -16,7 +16,8 @@ Detección de fugas de gas en ambientes domesticos con Módulo WiFi + Bluetooth 
 # Diseño del Circuito
 <img src="https://user-images.githubusercontent.com/86445664/127233965-b837fa46-a5a9-4ebf-8739-b3b4c2b028e8.JPG" width="500">
 
-# Fragmento de codigo utilizado
+# Codigo empleado en la solución
+https://github.com/DOLCEYCAMPO1993/Fuga-de-GAS/blob/main/Main.py
 
 
 
